@@ -1,0 +1,14 @@
+.nav{
+    text-decoration: none;
+    background-color: chocolate;
+    border-radius: 12px;
+    margin:40px 50px;
+    color:aliceblue;
+    padding: 10px 30px;
+    display: inline-block;
+}
+.nav:hover{
+    background-color: darkgreen;
+    border-radius: 12px;
+    
+}

@@ -26,13 +26,12 @@ import Exter from './Exter';
 import MyReactTabs from './MyReactTabs.js';
 import OnChangeEvent from './OnChangeEvent.js';
 import LoginForm from './Login Form.js';
-import NetflixProject from './ReactjsSrikanth/NetflixProject.js';
 const root = ReactDOM.createRoot(document.getElementById('root'));
 
 
 
 root.render(
-<NetflixProject></NetflixProject>
+
 );
 
 
